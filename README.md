@@ -23,6 +23,13 @@
 <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" style="max-width: 100%;"> </a> 
 </p>
 
+<strong>Tools</strong>
+
+
+<a href="https://code.visualstudio.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/9f1816fe8f44878d77803324ce8e3e1c4d2afc4e3f167b237e93848d3597d4fc/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39612f56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672f3130323470782d56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672e706e67" alt="vscode" width="30" height="30" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" style="max-width: 100%;"> </a>
+<a href="https://slack.com/intl/en-tr/" rel="nofollow"> <img src="https://camo.githubusercontent.com/73fdb461f704939668ec688c0e78b801cd5dd742c77e19b0bcc4284be5137158/68747470733a2f2f63646e2e6272616e64666f6c6465722e696f2f35483434324f33572f61732f706c3534366a2d376c65387a6b2d346e7a7a73312f536c61636b5f4d61726b5f5765622e706e67" alt="slack" width="37" height="37" data-canonical-src="https://cdn.brandfolder.io/5H442O3W/as/pl546j-7le8zk-4nzzs1/Slack_Mark_Web.png" style="max-width: 100%;"> </a>
+<a href="https://postman.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="30" height="30" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"> </a> 
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=enskym)](https://github.com/enskym/github-profile-trophy)
