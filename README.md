@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Enes</h2>
-<p align="center"> A Software Developer from Istanbul/Turkey </p>
+<p align="center"> A Software Developer from Kocaeli/Turkey </p>
 
 🗨️ Ask me about .NET Core, .NET Framework
 
