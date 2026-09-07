@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Enes</h2>
-<p align="center">A Software Developer from Kocaeli, Türkiye</p>
+<p align="center">A Software Developer from Bursa, Türkiye</p>
 <p align="center"><strong>.NET • Business Applications • ERP Integrations • Web Development</strong></p>
 
 I build business applications that connect everyday operations with ERP and accounting systems. My work includes CRM and ERP portals, warehouse management, purchasing workflows, and data integrations.
